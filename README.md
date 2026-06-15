@@ -9,6 +9,9 @@ A Streamlit-based application to calculate and visualize carbon footprint.
 - Tree Offset Calculator
 - Pie Chart Visualization
 - Green Tips
+- Bar Chart
+- AI Recommandation
+- Eco- Friendly Tips
 
 ## Technologies Used
 
@@ -16,3 +19,4 @@ A Streamlit-based application to calculate and visualize carbon footprint.
 - Streamlit
 - Pandas
 - Matplotlib
+# carbon-footprint-awareness-platform
