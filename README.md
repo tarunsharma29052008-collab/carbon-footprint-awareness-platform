@@ -1,4 +1,4 @@
-# Carbon Footprint Awareness Platform
+ # Carbon Footprint Awareness Platform
 
 A Streamlit-based application to calculate and visualize carbon footprint.
 
